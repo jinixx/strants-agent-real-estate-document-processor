@@ -1,0 +1,46 @@
+SETTLEMENT STATEMENT
+
+Property Address: 123 Oak Street, Springfield, IL 62701
+Sale Price: $425,000.00
+Closing Date: January 15, 2024
+
+BUYER INFORMATION:
+Name: John Smith
+Address: 456 Elm Avenue, Springfield, IL 62702
+
+SELLER INFORMATION:
+Name: Jane Doe
+Address: 789 Pine Road, Springfield, IL 62703
+
+COMMISSION DETAILS:
+Total Commission: $25,500.00 (6.0%)
+Listing Agent Commission: $12,750.00 (3.0%)
+Buyer Agent Commission: $12,750.00 (3.0%)
+
+LISTING AGENT:
+Name: Sarah Johnson
+Brokerage: Premier Real Estate Group
+License #: RE123456
+
+BUYER AGENT:
+Name: Michael Brown
+Brokerage: Springfield Realty Partners
+License #: RE789012
+
+SETTLEMENT CHARGES:
+Loan Origination Fee: $2,125.00
+Appraisal Fee: $500.00
+Credit Report: $25.00
+Title Insurance: $1,275.00
+Recording Fees: $150.00
+Transfer Tax: $850.00
+
+TOTAL SETTLEMENT CHARGES: $4,925.00
+
+NET TO SELLER: $394,575.00
+CASH FROM BUYER: $89,925.00
+
+This settlement statement is prepared in accordance with RESPA requirements.
+
+Closing Agent: Springfield Title Company
+Date Prepared: January 10, 2024
